@@ -1,0 +1,6 @@
+namespace WebAppiAvaliacaoJeanSilva.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
